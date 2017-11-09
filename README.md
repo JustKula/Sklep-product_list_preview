@@ -1,0 +1,1 @@
+# Sklep-product_list_preview
